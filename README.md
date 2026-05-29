@@ -22,4 +22,4 @@ Dashboard de análise de faturamento, custos e rentabilidade por produto, cobrin
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/wendel-santos) · [GitHub](https://github.com/wendel-santos)
+[LinkedIn](https://www.linkedin.com/in/wendel-santos-analista) · [GitHub](https://github.com/wendel-santos)
