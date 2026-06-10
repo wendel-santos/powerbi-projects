@@ -20,6 +20,13 @@ Dashboard de análise de faturamento, custos e rentabilidade por produto, cobrin
 
 ---
 
+### 🛒 [Hashtag Eletro — Relatório de Vendas](./hashtag-eletro/)
+Dashboard de vendas de rede de eletroeletrônicos com ticker animado, drill-through por cliente e loja, e acompanhamento de metas mensais.
+
+**Ferramentas:** Power BI · DAX · Power Query
+
+---
+
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/wendel-santos-analista) · [GitHub](https://github.com/wendel-santos)
