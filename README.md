@@ -27,6 +27,13 @@ Dashboard de vendas de rede de eletroeletrônicos com ticker animado, drill-thro
 
 ---
 
+### 🖥️ [Dashboard de Vendas — Análise Completa](./dashboard-vendas-avancado/)
+Dashboard avançado com tooltips customizados com imagem do produto, árvore de decomposição, narrativa inteligente, animações e ticker com variação em tempo real.
+
+**Ferramentas:** Power BI · DAX · Power Query
+
+---
+
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/wendel-santos-analista) · [GitHub](https://github.com/wendel-santos)
+[LinkedIn](https://www.linkedin.com/in/wendel-santos-analista/) · [GitHub](https://github.com/wendel-santos)
