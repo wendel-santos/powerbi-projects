@@ -34,6 +34,13 @@ Dashboard avançado com tooltips customizados com imagem do produto, árvore de 
 
 ---
 
+### 👥 [Dashboard RH](./dashboard-rh/)
+Dashboard de recursos humanos com ticker animado por cidade, tooltip customizado com folha salarial e horas extras por cargo, e indicadores de contratações, demissões e turnover.
+
+**Ferramentas:** Power BI · DAX · Power Query
+
+---
+
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/wendel-santos-analista/) · [GitHub](https://github.com/wendel-santos)
