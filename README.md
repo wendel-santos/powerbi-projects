@@ -41,6 +41,13 @@ Dashboard de recursos humanos com ticker animado por cidade, tooltip customizado
 
 ---
 
+### 🚚 [Dashboard Logístico](./dashboard-logistico/)
+Dashboard de operações logísticas com indicadores de receita, lucro, km rodados e viagens, gauge de % no prazo e tabela hierárquica por marca e tipo de veículo com drill-down.
+
+**Ferramentas:** Power BI · DAX · Power Query
+
+---
+
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/wendel-santos-analista/) · [GitHub](https://github.com/wendel-santos)
