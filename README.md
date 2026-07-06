@@ -48,6 +48,13 @@ Dashboard de operações logísticas com indicadores de receita, lucro, km rodad
 
 ---
 
+### 🛍️ [Dashboard Vendas Comercial](./dashboard-vendas-comercial/)
+Dashboard de vendas com KPIs animados, seleção visual por imagem de produto e árvore de decomposição por marca, categoria e produto.
+
+**Ferramentas:** Power BI · DAX · Power Query
+
+---
+
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/wendel-santos-analista/) · [GitHub](https://github.com/wendel-santos)
