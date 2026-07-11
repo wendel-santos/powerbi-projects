@@ -55,6 +55,13 @@ Dashboard de vendas com KPIs animados, seleção visual por imagem de produto e 
 
 ---
 
+### 🏭 [Dashboard de Produção](./dashboard-producao/)
+Dashboard de performance industrial com indicadores de produtividade e qualidade, gráfico de produção mensal e gauges interativos — visual dark com filtros por operador e mês.
+
+**Ferramentas:** Power BI · DAX · Power Query
+
+---
+
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/wendel-santos-analista/) · [GitHub](https://github.com/wendel-santos)
