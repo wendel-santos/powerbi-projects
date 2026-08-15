@@ -35,7 +35,7 @@ Dashboard avançado com tooltips customizados com imagem do produto, árvore de 
 ---
 
 ### 👥 [Dashboard RH](./dashboard-rh/)
-Dashboard de recursos humanos com ticker animado por cidade, tooltip customizado com folha salarial e horas extras por cargo, e indicadores de contratações, demissões e turnover.
+Dashboard de recursos humanos com árvore de decomposição por cargo e área, tooltip com folha salarial e horas extras, e indicadores de contratações, demissões e turnover.
 
 **Ferramentas:** Power BI · DAX · Power Query
 
@@ -57,6 +57,13 @@ Dashboard de vendas com KPIs animados, seleção visual por imagem de produto e 
 
 ### 🏭 [Dashboard de Produção](./dashboard-producao/)
 Dashboard de performance industrial com indicadores de produtividade e qualidade, gráfico de produção mensal e gauges interativos — visual dark com filtros por operador e mês.
+
+**Ferramentas:** Power BI · DAX · Power Query
+
+---
+
+### 🏦 [Dashboard Financeiro — Setor Bancário](./dashboard-financeiro-bancos/)
+Dashboard financeiro com ticker animado, waterfall de lucro mensal, narrativa inteligente sobre transações PIX e análise de receita, despesas e margem por cidade.
 
 **Ferramentas:** Power BI · DAX · Power Query
 
