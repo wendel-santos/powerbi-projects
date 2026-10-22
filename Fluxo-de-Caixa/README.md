@@ -37,11 +37,11 @@ Projeto de estudo com dados de exemplo, cobrindo o período de 01/01/2019 a 31/1
 
 ## Prints
 
-![Visão geral](img/visao-geral.png)
+![Visão geral](assets/visao-geral.png)
 
-![Tabela de notas](img/tabela-notas.png)
+![Tabela de notas](assets/tabela-notas.png)
 
-![Filtros](img/filtros.png)
+![Filtros](assets/filtros.png)
 
 ## Ferramentas
 
